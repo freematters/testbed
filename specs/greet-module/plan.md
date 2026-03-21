@@ -9,7 +9,7 @@ graph LR
 
 ## Checklist
 - [x] Step 1: Greet function with unit tests
-- [ ] Step 2: CLI entry point with subprocess tests
+- [x] Step 2: CLI entry point with subprocess tests
 
 ---
 
