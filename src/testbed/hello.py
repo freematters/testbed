@@ -1,0 +1,5 @@
+"""Hello greeting module."""
+
+
+def hello(name: str) -> str:
+    return f"Hello, {name}!"
