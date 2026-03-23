@@ -2,7 +2,7 @@
 
 ## Checklist
 - [x] Step 1: Implement the feature
-- [ ] Step 2: E2E test
+- [x] Step 2: E2E test
 
 ---
 
